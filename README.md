@@ -1,1 +1,4 @@
 # odin-recipes
+I learned a lot from this first HTML project, and here's where I'll choose to briefly reflect on it.
+
+This exercise helped solidify my understanding of utilizing Git, setting up a GitHub repo, and most importantly stringing together the different files and directories that make up a webpage. I also worked on lists, embedding images, working and navigating entirely through the CLI with no use of my GUI. In conclusion, I genuinely found this to be a fantastic exercise that helped put together the puzzle pieces of everything I've learned in HTML so far, and am looking forward to continuing on this learning path and possibly revisiting this project in the future to further polish it.
